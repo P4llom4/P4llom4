@@ -1,9 +1,11 @@
 ### Olá! Meu nome é Palloma e desenvolver é minha paixão 🤗 
 <br>
 
+ 🔭 Atualmente trabalho com desenvolvimento na plataforma do Servicenow e sou certificada (CSA)
+ 🌱 Estudando e aprimorando minhas habilidades em desenvolvimento web | Front-end
+ ⚙️ DevOps e Figma
+ 
 
-- 🔭 Hoje trabalho com desenvolvimento na plataforma do ServiceNow
-- 🌱 Estudando e aprimorando minhas habilidades em Front-end
 <br>
 
 <div align="center">
