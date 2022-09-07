@@ -1,9 +1,9 @@
-### Olá! Meu nome é Palloma e desenvolver é minha paixão 🤗
+### Olá! Meu nome é Palloma e desenvolver é minha paixão 🤗 <br>
 
 
 - 🔭 Hoje trabalho com desenvolvimento na plataforma do ServiceNow
 - 🌱 Estudando e aprimorando minhas habilidades em Front-end
-
+<br>
 
 <div align="center">
   <a href="https://github.com/p4llom4">
