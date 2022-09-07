@@ -1,10 +1,7 @@
-### Hi there 👋
-
-
+### Olá! Meu nome é Palloma e desenvolver é minha paixão 🤗
 
 - 🔭 Hoje trabalho com desenvolvimento na plataforma do ServiceNow
 - 🌱 Estudando Front-end
-- 📫 Contato: palloma.alcacio@gmail.com
 
 <div align="center">
   <a href="https://github.com/p4llom4">
