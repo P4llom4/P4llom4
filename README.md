@@ -1,4 +1,4 @@
-### Olá! Meu nome é Palloma e desenvolver é minha paixão 🤗 
+### Olá! Meu nome é Palloma Alcácio 🤗 
 <br>
 
  - 🔭 Atualmente desenvolvedora do Servicenow
