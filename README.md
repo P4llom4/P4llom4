@@ -2,10 +2,10 @@
 <br>
 
  - 🔭 Atualmente desenvolvedora do Servicenow
- - 🌱 Estudando e aprimorando minhas habilidades em desenvolvimento web | Front-end
- - ⚙️ DevOps e Figma
+ - 🌱 Estudando e aprimorando minhas habilidades em CSS, HTML, JS
+ - ⚙️ DevOps, Figma, SCRUM
  - 🚀 Aperfeiçoando meu conhecimento em ReactJS 
- - 👩🏻‍💻 Estou buscando oportunidades para desenvolvedora júnior
+ - 👩🏻‍💻 Front-end é a minha paixão. Possuo um perfil com disposição para um aprendizado e aperfeiçoamento contínuo, tendo em vista a busca do crescimento da minha carreira profissional!
  
 
 <br>
